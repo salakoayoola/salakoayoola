@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salako Ayoola
 
-<!--
-**salakoayoola/salakoayoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm like **a CTO for Creative Teams** — instincts of a storyteller, bias of an engineer.
 
-Here are some ideas to get you started:
+Currently leading creative strategy and operations at [LemFi](https://lemfi.com), four years in. Acquisition, retention and brand equity across 30+ remittance corridors and three corridor-agnostic products (Credit, eSIM, Savings), for over two million global customers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Campaigns, films, and software. Sometimes in the same brief. The breadth is the point.
+
+[→ See the work](https://salakoayoola.xyz/projects)
+[→ Read the blog](https://salakoayoola.substack.com/)
+
+---
+
+**Previously:** Indie Genius Co. · Softcom Limited · Big Cabal Media · Pulse Africa
+
+**Selected work:**
+- [Vynta](https://salakoayoola.substack.com/p/im-catching-the-vibe) — Figma Plugin API · Node.js
+- **Plugin of Babel** — One-click subtitles in the languages the "big tools" forgot. After Effects CEP · Python
+- **Be Home... Your Way** — LemFi × Visa campaign
+
+**Connect:** [X](https://x.com/salakoay_ola) · [LinkedIn](https://www.linkedin.com/in/salakoayoola) · [Website](https://salakoayoola.xyz)
