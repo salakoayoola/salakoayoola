@@ -19,34 +19,25 @@
 
 </div>
 
-## Currently
-
-Leading creative strategy and operations at **[LemFi](https://lemfi.com)** — four years in. Acquisition, retention and brand equity across **30+ remittance corridors** and three corridor-agnostic products (Credit, eSIM, Savings), for over **two million global customers**.
-
-Campaigns, films, and software. Sometimes in the same brief. **The breadth is the point.**
-
-[→ See the work](https://salakoayoola.xyz/projects) · [→ Read the blog](https://salakoayoola.substack.com/)
-
-## Previously
-
-| Company | Role | Years |
-|---------|------|-------|
-| **Indie Genius Co.** | Founder | 2020 – Present |
-| **Softcom Limited** | — | 2020 – 2021 |
-| **Big Cabal Media** | — | 2018 – 2020 |
-| **Pulse Africa** | — | 2016 – 2018 |
-
-## Selected Work
-
-| Project | Medium | Stack / Notes |
-|---------|--------|---------------|
-| **[Vynta](https://salakoayoola.substack.com/p/im-catching-the-vibe)** | Software | Figma Plugin API · Node.js — *Your designers live in Figma. Everyone else lives in Canva. This is the bridge.* |
-| **Plugin of Babel** | Software | After Effects CEP · Python — *One-click subtitles. In Twi. In Yoruba. In the languages the "big tools" forgot.* |
-| **Be Home... Your Way** | Film | LemFi × Visa campaign — *The feeling of home, wherever you are.* |
-
 ## What I'm Building Here
 
-Open-source tools and experiments — AI agents, home automation, creative plugins, and whatever solves a problem the "big tools" overlook.
+This is where I experiment. AI agents, home automation, creative tooling, and whatever solves a problem the "big tools" overlook.
+
+| Project | What It Is | Stack |
+|---------|-----------|-------|
+| **[ay-stack](https://github.com/salakoayoola/ay-stack)** | Resources and tools for my experimentation with AI agents | TypeScript |
+| **[ahssistant](https://github.com/salakoayoola/ahssistant)** | My Home Assistant instance — smart home orchestration | JavaScript |
+| **[gigaplex-main](https://github.com/salakoayoola/gigaplex-main)** | 4 Raspberry Pis on a journey — distributed experiments | JavaScript |
+| **[legacy-teleprompter-web](https://github.com/salakoayoola/legacy-teleprompter-web)** | Legacy iOS teleprompter — creative production tooling | HTML |
+
+## Selected Software
+
+Side projects where code meets creative infrastructure.
+
+| Project | Stack | Notes |
+|---------|-------|-------|
+| **Vynta** | Figma Plugin API · Node.js | Bridge between Figma and Canva workflows |
+| **Plugin of Babel** | After Effects CEP · Python | One-click subtitles in languages the big tools forgot |
 
 ---
 
