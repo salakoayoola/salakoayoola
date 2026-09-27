@@ -3,7 +3,6 @@
 <img src="assets/logo.svg" width="120" />
 
 # Salako Ayoola
-### a.k.a **Itu Bobo The Builder**
 
 **CTO for Creative Teams // AI-Assisted Software Developer**
 
@@ -42,7 +41,7 @@ Where code meets creative infrastructure.
 | Project | What It Is | Stack |
 |---------|-----------|-------|
 | **[uk-train-app](https://github.com/salakoayoola/uk-train-app)** | A modern transit interface for UK trains | TypeScript / React |
-| **[say-dada](https://github.com/salakoayoola/say-dada)** | Voice-first interactions and storytelling tools | Node.js |
+| **[say-dada](https://github.com/salakoayoola/say-dada)** | From "ta! ta!! ta!!!" to "Dada" | Node.js |
 | **[tinerari](https://github.com/salakoayoola/tinerari)** | Smart itinerary planning and scheduling | TypeScript |
 | **[ay-stack](https://github.com/salakoayoola/ay-stack)** | Resources and tools for AI agent experimentation | AI / TS |
 
@@ -62,9 +61,6 @@ A sneak peek at the infrastructure and creative tools currently in development b
 
 <div align="center">
   
-<img src="assets/background.png" width="100%" style="border-radius: 12px; border: 1px solid #FFD700;" />
-
-<br/><br/>
 
 *Built with curiosity. Shipped with conviction.*
 
